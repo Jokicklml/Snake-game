@@ -10,4 +10,5 @@ Simple snake-game proyect using Java application.
 
 ![image](https://user-images.githubusercontent.com/109178169/184183811-f45b5552-a189-4358-86e3-520325789cb4.png)
 
+![image](https://user-images.githubusercontent.com/109178169/184184224-cf09aeeb-10a5-41af-a94f-5b35037343cb.png)
 
